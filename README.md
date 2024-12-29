@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💻 Lucas
 
-<!--
-**lucas-vasconcelos-pirani-carneiro/lucas-vasconcelos-pirani-carneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📱 Contato
 
-Here are some ideas to get you started:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasvasconcelospiranicarneiro@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens 
+
+### Frameworks
+
+### Ferramentas
+
+### 📊 Estatísticas
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-vasconcelos-pirani-carneiro&theme=gruvbox&layout=compact&custom_title=Linguagens&langs_count=9" 
+  />
+
+</p>

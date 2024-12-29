@@ -29,6 +29,6 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="125" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-vasconcelos-pirani-carneiro&theme=gruvbox&layout=compact&custom_title=Linguagens&langs_count=9" 
   />

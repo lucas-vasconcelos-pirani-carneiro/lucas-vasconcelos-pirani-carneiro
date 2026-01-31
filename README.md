@@ -21,4 +21,4 @@
 
 ## Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucas-vasconcelos-pirani-carneiro&show_icons=true&theme=gruvbox"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/languages?username=lucas-vasconcelos-pirani-carneiro&theme=gruvbox"/>

@@ -23,3 +23,9 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git,postman,debian" />
 </p>
+
+## Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas-vasconcelos-pirani-carneiro&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-vasconcelos-pirani-carneiro&layout=compact&theme=dark)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucas-vasconcelos-pirani-carneiro&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
